@@ -22,7 +22,7 @@ curses library (included in standard Python library for Unix-based systems)
 
 Clone the Repository
 
-$ git clone https://github.com/yourusername/pyirc.git
+$ git clone https://github.com/lord3nd3r/pyirc.git
 $ cd pyirc
 
 Configuration
@@ -30,7 +30,7 @@ Configuration
 The configuration file is automatically created in your home directory as .pyirc_config when you first run the script. The default configuration looks like this:
 
 [DEFAULT]
-Server = irc.libera.chat
+Server = irc.rizon.net
 Port = 6667
 Nickname = PyIrssiUser
 Channel = #testchannel
